@@ -1,4 +1,4 @@
-# Travel_Insurance
+# TRAVEL_INSURANCE
 
 ![](Travel_Insurance.jpg)
 
